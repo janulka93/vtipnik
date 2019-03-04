@@ -1,0 +1,10 @@
+﻿Vejde turista v San Francisku do obchodu se zvíraty a prohlízí si opice.
+V tom vejde jiný chlap, jde rovnou k prodavaci a ptá se:
+- Prosím jednu opici typu C++.
+Prodavac mu ji podá, chlap zaplatí 5000 dolaru a odejde. Prekvapený turista se ptá:
+- Prosím vás, co to bylo za opici, ze byla tak drahá?
+- No, víte, ona dokáze programovat v C++, bez chyb, efektivne, úhledný kód. Velmi dobrá investice.
+- A tamty opice?
+- Ty stojí 10 000 dolaru, ale umí programovat v C++, v Jave i v XML.
+- Proboha, a tam máte opici za 50 000! Co dokáze ta?
+- No, abych rekl pravdu, jeste jsem ji nevidel nic delat, ale ostatní opice ji oslovují "project manager".

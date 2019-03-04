@@ -1,0 +1,18 @@
+Vědec zkoumá blechu. Zakřičí na blechu:
+Blecho, vyskoč!
+A blecha vyskočí. Vědec si zapíše do zápisníku: Blecha skáče.
+
+Pak bleše utrhne nohu a zakřičí:
+Blecho, vyskoč!
+Blecha vyskočí. Vědec si zapíše: Když se bleše utrhne noha, blecha skáče.
+
+Pak jí utrhne druhou nohu a zvolá:
+Blecho, vyskoč!
+Blecha vyskočí. Vědec si poznamená: Když se bleše utrhne i druhá noha, blecha skáče.
+
+Tak pokračuje dál, dokud nedojde k poslední noze. Utrhne ji a řekne: Blecho, vyskoč!
+Blecha nic.
+Blecho, vyskoč!
+Blecha nic.
+Vědec si napíše do zápisníku:
+Po utržení poslední nohy blecha ohluchne.

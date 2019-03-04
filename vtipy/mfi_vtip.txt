@@ -1,0 +1,4 @@
+Matematik, fyzik a inženýr se jdou na noc ubytovat do hotelu. V noci je ale probudí kouř a zjistí, že v pokoji hoří. Co udělají?
+Inženýr vezme kyblík, natočí do něj vodu, uhasí oheň a jde spát.
+Fyzik vezme tužku a papír, aby spočetl, kolik je potřeba vody na uhašení ohně, vyjde mu 4,3 litru, vezme kyblík, natočí do něj přesně 4,3 litru, uhasí oheň a jde spát.
+A matematik? Tak ten dojde ke kohoutku, pustí vodu, zase ji zavře a jde spát, protože zjistil, že řešení existuje.
